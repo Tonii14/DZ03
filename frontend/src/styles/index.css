@@ -1,0 +1,10 @@
+#root{
+    background-color: beige;
+    overflow: auto;
+}
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(240, 64%, 46%);
+    font-weight: bold;
+}
